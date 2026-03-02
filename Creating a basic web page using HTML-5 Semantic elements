@@ -1,0 +1,53 @@
+<!Doctype>
+<html>
+<head>
+<title>MY Sample Code</title>
+</head>
+<body>
+<!---Header section--->
+<header>
+<h1>My 1ST TRAIL WEBSITE</h1>
+<p>Welcome to the Website</p>
+</header>
+<!---Navigation--Menu---->
+<nav>
+<a href="#">HOME</a>  |
+<a href="#">COURSES</a>  |
+<a href="#">CONTACT</a>
+</nav>
+<!--- Main Content--->
+<main>
+<!---SECTIO--->
+<section>
+<h2>HTML</h2>
+<!--ARTICLE>
+<article>
+<p>
+HTML STANDS FOR
+<span>Hyper Text Markup Language</span>,
+It is used to create web page'
+</p>
+<! -----Figure---->
+<figure>
+<img src="C:\Users\harsh\OneDrive\Desktop\24B11AI327\HTML reference image" alt="HTML reference image">
+<figcaption>Figure: Sample HTML image</figcaption>
+</figure>
+</article>
+</section>
+<!---Aside content>
+<aside>
+<h3>LETS LEARN SOMETHING NEW</h3>
+<p>HTML5 TAGS</p>
+</aside>
+<!---DIV--->
+<div>
+<p>Semantic elements in HTML
+   Manynweb sites contain HTMl code to indicate navigation , header , and folder.</p>
+</div>
+</main>
+<!--Footer --->
+<footer>
+<p>&copy;2026 My First Trail Website</p>
+</footer>
+</body>
+</html>
